@@ -1,4 +1,4 @@
-<h2 align="center">Olá👋! Me chamo Karoline e sou desenvolvedora Java!.</h2>
+<h2 align="center">Olá👋! Me chamo Karoline e sou desenvolvedora Back-End!.</h2>
 
 ###
 
